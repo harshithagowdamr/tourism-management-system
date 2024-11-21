@@ -8,7 +8,11 @@
 The **Tourism Management System** is a web-based application designed to manage tourism activities. This system allows users to browse and book tour packages, while administrators can manage users, tour packages, and bookings. It is built using **PHP** and **MySQL** with **XAMPP** as the local development environment.
 
 ---
+## Live Demo
+The application is deployed and accessible at the following link:  
+[Click here to view the live Tourism Management System](https://harshithagowdamr.github.io/tourism-management-system/)
 
+---
 ## Features
 
 ### User Features:
@@ -29,12 +33,6 @@ The **Tourism Management System** is a web-based application designed to manage 
 - **Backend:** PHP
 - **Database:** MySQL
 - **Development Environment:** XAMPP (Apache, MySQL, PHP)
-
----
-
-## Live Demo
-The application is deployed and accessible at the following link:  
-[Click here to view the live Tourism Management System](https://your-deployed-link.com)
 
 ---
 
